@@ -34,7 +34,7 @@ function Footer() {
             </Link>
           </div>
           <small className="website-rights">
-            Copyright &#169; 2022. PT Company
+            Copyright &#169; built with ReactJS 2022. by Christopher Baptista
           </small>
           <div className="social-icons">
             <Link
